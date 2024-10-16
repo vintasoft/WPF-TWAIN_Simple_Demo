@@ -8,9 +8,9 @@ using System.Windows;
 [assembly: AssemblyTitle("VintaSoft WPF TWAIN Simple Demo")]
 [assembly: AssemblyDescription("WPF TWAIN simple demo")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("VintaSoft Ltd.")]
+[assembly: AssemblyCompany("VintaSoft Llc.")]
 [assembly: AssemblyProduct("WPF Twain Simple Demo")]
-[assembly: AssemblyCopyright("Copyright VintaSoft Ltd. 2024")]
+[assembly: AssemblyCopyright("Copyright VintaSoft Llc. 2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
