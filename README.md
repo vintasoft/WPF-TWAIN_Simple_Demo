@@ -1,6 +1,6 @@
 # VintaSoft WPF TWAIN Simple Demo
 
-This WinForms project uses <a href="https://www.vintasoft.com/vstwain-dotnet-index.html">VintaSoft TWAIN .NET SDK</a> and demonstrates how to acquire images from TWAIN device in WPF using a few strings of code.
+This WinForms project uses <a href="https://www.vintasoft.com/vstwain-dotnet-index.html">VintaSoft TWAIN .NET SDK</a> and demonstrates how to acquire images from TWAIN image scanner in WPF using a few strings of code.
 
 
 ## Screenshot
